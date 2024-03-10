@@ -1,0 +1,17 @@
+{
+    "nome": "João",
+    "idade": 42,
+    "endereco":
+    {
+        "rua": "Rua Maria Peira",
+        "bairro": "Vilania",
+        "numero": 62,
+        "Complemento": "Ap 311"
+    },
+    "fones": [
+        "21 97655 7252",
+        "21 97655 7252",
+        "21 97655 7252"
+    ]
+
+}
